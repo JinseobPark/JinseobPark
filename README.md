@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JinseobPark
-- 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning to make game engine using c++.
+- 👀 I am currently working as a CFD software engineer. 
+- 🌱 I have a keen interest in graphics.
 
 <!---
 JinseobPark/JinseobPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
